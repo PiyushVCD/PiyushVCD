@@ -1,5 +1,7 @@
 # 💫 About Me:
-Im currently working on building AI projects that can automate our task
+AI & Data Science graduate with 6 months of experience in an operations role at MAA Academy.
+Currently building AI and machine learning projects focused on automating tasks and improving efficiency.
+Skilled in Python, Machine Learning, and SQL, with hands-on project experience.
 
 
 ## 🌐 Socials:
